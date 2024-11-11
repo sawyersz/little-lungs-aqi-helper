@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Łazienki Park",
+    "latitude": 52.2101,
+    "longitude": 21.0285,
+    "diameter_km": 1.0
+  },
+  {
+    "name": "Saxon Garden (Ogród Saski)",
+    "latitude": 52.2392,
+    "longitude": 21.0128,
+    "diameter_km": 0.3
+  },
+  {
+    "name": "Wilanów Park",
+    "latitude": 52.1470,
+    "longitude": 21.0840,
+    "diameter_km": 1.2
+  },
+  {
+    "name": "Mokotów Fields (Pole Mokotowskie)",
+    "latitude": 52.2074,
+    "longitude": 21.0186,
+    "diameter_km": 1.5
+  },
+  {
+    "name": "Skaryszewski Park",
+    "latitude": 52.2490,
+    "longitude": 21.0380,
+    "diameter_km": 1.0
+  },
+  {
+    "name": "Praga Park",
+    "latitude": 52.2546,
+    "longitude": 21.0702,
+    "diameter_km": 0.4
+  },
+  {
+    "name": "Kensington Gardens Park",
+    "latitude": 52.2817,
+    "longitude": 21.0198,
+    "diameter_km": 0.3
+  },
+  {
+    "name": "Jasna Góra Park",
+    "latitude": 52.2712,
+    "longitude": 21.0134,
+    "diameter_km": 0.5
+  }
+]
